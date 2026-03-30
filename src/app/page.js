@@ -9,7 +9,7 @@ export default function Home() {
       <div className="mb-12">
         <h1 className="text-4xl font-bold mb-4">My Homelab Site</h1>
         <p className="text-gray-600 text-lg">
-          Documenting my self-hosted setup, homelab adventures, and open-source finds.
+          Documenting my self-hosted setup, homelab adventures, and open-source finds. Powered by Coolify.
         </p>
       </div>
 
